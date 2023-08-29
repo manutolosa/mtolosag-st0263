@@ -42,6 +42,7 @@ Cada microservicio cuenta con sus propias variables de entorno donde cada una se
 ## 
 ## resultados o pantallazos 
 ![Captura de pantalla 2023-08-28 190151](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/c888e98e-1a5c-41ba-a934-2726cb98ca17)
+![Captura de pantalla 2023-08-28 200836](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/71d30600-9665-4ad9-83ac-3c547b5607d2)
 
 
 
