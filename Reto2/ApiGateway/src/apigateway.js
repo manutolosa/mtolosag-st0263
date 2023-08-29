@@ -39,7 +39,7 @@ let channel, connection
 connect()
 
 
-app.get('/listfiles',( req, res)=> {
+app.get('/listararchivos',( req, res)=> {
         let client = new SearchRequest(REMOTE_HOST, grpc.credentials.createInsecure());
         console.info("Consumer service is started...");
         request_service = 1;
@@ -72,11 +72,11 @@ app.get('/listfiles',( req, res)=> {
 
 })
 
-app.post('/searchfile',(req, res)=>{
+app.post('/buscararchivos',(req, res)=>{
     let client = new SearchRequest(REMOTE_HOST, grpc.credentials.createInsecure());
     console.info("Consumer service is started...");
     request_service = 2;
-    file_search = req.body.file;
+    file_search = req.body.archivos;
     client.SearchR({request_service:request_service, file_search:file_search},(err,data) => {
         if(err){
             const data = {

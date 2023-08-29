@@ -27,7 +27,7 @@ lenguaje: JavaScript.
 librerias: express, dotenv, amqplib, glob, fs, @grpc/grpc-js
 
 ## como se compila y ejecuta.
-En primera parte se debe de asegurar que la imagen del Docker este corriendo con el comando “docker start rabbit-Server”. Segundo debes entrar a la carpeta de API Gateway y escribir el comando “npm start” luego en otra consola de la misma máquina virtual entrar a la carpeta “microservicio 1” y hacer el mismo comando (“npm start”) , se sigue el mismo procedimiento con el “microservicio 2”.despues desde un cliente (postman) para ver la lista de archivos debes hacer un GET a la siguiente IP:54.225.226.200:3000/listfiles/ , luego para buscar un archivo en específico se debe hacer un POST a la siguiente IP: 54.225.226.200:3000/searchfile/ (IMPORTANTE :el body de la request POST debe seguir el siguiente formato tipo json  
+En primera parte se debe de asegurar que la imagen del Docker este corriendo con el comando “docker start rabbit-Server”. Segundo debes entrar a la carpeta de API Gateway y escribir el comando “npm start” luego en otra consola de la misma máquina virtual entrar a la carpeta “microservicio 1” y hacer el mismo comando (“npm start”) , se sigue el mismo procedimiento con el “microservicio 2”.despues desde un cliente (postman) para ver la lista de archivos debes hacer un GET a la siguiente IP:54.225.226.200:3000/listararchivos/ , luego para buscar un archivo en específico se debe hacer un POST a la siguiente IP: 54.225.226.200:3000/buscararchivos/ (IMPORTANTE :el body de la request POST debe seguir el siguiente formato tipo json  
 {
   "file":""
 }
