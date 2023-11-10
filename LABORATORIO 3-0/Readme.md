@@ -12,3 +12,16 @@
 5. url : s3://manuela-lab0/datasets2/datasets/
 
 ## Parte 2 - Cluster
+1.Buscar el servicio EMR
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/f73a6dc8-2919-4b48-bff3-5ae65d901b65)
+2.Crear y configurar clúster
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/02d4e5fa-0165-4192-810d-7c64953f0ee3)
+3.Máquinas EC2 del Clúster
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/2a646bb5-45b0-4ff5-add4-680f3b017a31)
+4.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/c2cabb32-d693-472e-9166-2cdac5bcf556)
+5.Agregar los roles y configuraciones de seguridad
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/bcef408d-67c9-450a-a2f6-c73fb3c887a7)
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/ef5a088f-9452-4774-98bf-410d42f5a4ee)
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/47039142-3039-4faf-9334-8992a35fa937)
+6.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/61ca29e7-fd1d-45f2-8ed4-d6b31aaf995c)
+7.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/76d0d80a-0422-4ef1-bc39-ec7ec0b806a9)
