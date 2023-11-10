@@ -9,4 +9,5 @@
 ![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/63537918-3fb8-452b-bc4b-7d0de54a3068)
 
 - cargar achivo manual
+![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/71d22398-2767-4965-9653-a6bbe1dbffe3)
 
