@@ -27,4 +27,8 @@
 7.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/76d0d80a-0422-4ef1-bc39-ec7ec0b806a9)
 8.Abrir puertos 
 ![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/71f127bf-c352-461b-8566-1d9394175606)
-9.
+9.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/b45fa60b-c6df-4302-8b2a-9e945fe981b1)
+10.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/eee32db5-b14a-416d-9c6a-5d3de3327202)
+11.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/14298835-1625-4516-92a7-1124d7a2d649)
+12.![image](https://github.com/manutolosa/mtolosag-st0263/assets/74980999/8150433d-1e42-4e9d-939f-3b5057358037)
+
